@@ -93,12 +93,6 @@
                     <includes>
                         <include>${spec}</include>
                     </includes>
-                    <properties>
-                        <property>
-                            <name>listener</name>
-                            <value>com.tmobile.tbuilder.geb.TestListener</value>
-                        </property>
-                    </properties>
                 </configuration>
             </plugin>
             <plugin>
